@@ -13,8 +13,14 @@
 <img width="265" alt="image" src="https://user-images.githubusercontent.com/55674648/232503413-57aa7759-30cb-4bb3-af10-f2ed99ec9b6c.png">
 
 3. 각 놀이기구에서 키를 제외하고 쿠키의 값들을 가져와요!
+
+
 3-1. 쿠키에 이전에 이동했던 장소 정보를 가져와 보여주세요!
+
+
 3-2. 티익스프레스에 방문할 때 키가 150 이하면 경고 메세지를 주세요!
+
+
 특이사항 : 출력 순서는 상관 없어요!!
 
 #### tExpress.jsp
