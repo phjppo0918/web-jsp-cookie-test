@@ -6,9 +6,9 @@
 
 1. 처음에는 gate에서 티켓을 신청해요!
 #### gate.jsp
-2. ticket을 쿠키를 통해 발급해요!
 <img width="256" alt="image" src="https://user-images.githubusercontent.com/55674648/232503304-11775329-5717-464a-b326-02ac47f5d5e8.png">
 
+2. ticket을 쿠키를 통해 발급해요!
 #### ticketGenerator.jsp
 <img width="265" alt="image" src="https://user-images.githubusercontent.com/55674648/232503413-57aa7759-30cb-4bb3-af10-f2ed99ec9b6c.png">
 
